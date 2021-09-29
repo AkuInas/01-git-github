@@ -20,3 +20,12 @@ Buat akun terlebih dahulu jika belum mempunyai akun setelah berhasil mendaftar a
 -Visibility : terdapat dua opsi penampilan repo yaitu “public” dan “private”. Pilih public jika ingin dilihat oleh pengguna lain/pilih private jika hanya ingin dilihat sendiri.
 -Initialize this repository : terdapat beberapa opsi untuk mengatur project baru yang akan kamu buat. Opsi pertama dengan pemasangan file “Readme”. Readme selalu ada di setiap repository untuk menjelaskan penjelasan singkat/detail, cara penggunaan, dan sebagainya. Jika ingin dibuat secara otomatis oleh GitHub, checklist tombolnya.
 -Jika merasa sudah sesuai, silakan lanjut ke bagian selanjutnya dengan menekan tombol “Create repository”.
+3. Perintah dasar Github
+-git config : git config --global user.email sam@google.com
+-git clone : git clone alex@93.188.160.58:/path/to/repository
+-git commit : git commit –m “Isi dengan keterangan untuk commit”
+-git push : git push origin master
+-git remote : git rmote -v
+-git branch : git branch
+-git pull : git pull
+-git merge : git merge <nama-branch>
